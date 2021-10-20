@@ -1,2 +1,2 @@
-# Yeniden
+# Adminpanelimiz
 Created with CodeSandbox
